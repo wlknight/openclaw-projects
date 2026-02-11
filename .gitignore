@@ -1,0 +1,12 @@
+# OpenClaw 项目
+这个仓库包含 OpenClaw AI 助手的相关配置和技能。
+
+## 内容
+
+- README.md - 项目说明
+- push_to_github.sh - 推送脚本
+- skills/ - 自定义技能目录
+
+## 注意
+
+敏感配置信息（如 Token、密码）不会推送到公开仓库。
