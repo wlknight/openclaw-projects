@@ -6,6 +6,8 @@ on:
       - master
     paths:
       - 'mineru/docker/**'
+      - '.github/workflows/build-mineru.yml'
+  workflow_dispatch:
 
 jobs:
   build:
